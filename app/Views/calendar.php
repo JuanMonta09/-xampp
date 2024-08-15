@@ -12,7 +12,7 @@
   <!-- fullCalendar -->
   <link rel="stylesheet" href="../plugins/fullcalendar/main.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="../dist/css/adminlte.min.css">
+  <link rel="stylesheet" href="../public/css/adminlte.min.css">
 </head>
 <body class="hold-transition sidebar-mini">
 <div class="wrapper">
